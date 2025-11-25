@@ -1,0 +1,2 @@
+# Odin Recipes
+this project is part of the Odin Project. I will be creating a basic recipe website using HTML. Through this project, I will demonstrate my understanding of Git, Github, and HTML basics.
